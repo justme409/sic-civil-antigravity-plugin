@@ -1,0 +1,38 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "sic-civil",
+  "displayName": "Civil",
+  "version": "0.3.1",
+  "description": "Ask about your SI Civil civil construction tenders and projects: estimates, ITPs and hold points, SWMS, the programme, lots and risks.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What projects am I on in SI Civil?",
+    "What hold points apply to the raised platform ramps?",
+    "Where will the programme be on 10 May 2027?"
+  ],
+  "author": {
+    "name": "Applied Ontologies Pty Ltd",
+    "email": "tom@sicivil.com",
+    "url": "https://sicivil.com/"
+  },
+  "homepage": "https://sicivil.com/support",
+  "repository": "https://github.com/justme409/sic-civil-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "civil",
+    "civil engineering",
+    "civil construction",
+    "estimating",
+    "tender",
+    "itp",
+    "hold points",
+    "programme",
+    "schedule",
+    "method statement",
+    "swms",
+    "management plan",
+    "roads",
+    "drainage",
+    "contractor"
+  ]
+}
